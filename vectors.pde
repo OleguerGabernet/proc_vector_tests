@@ -43,6 +43,7 @@ void draw(){
     g = randomGaussian()*150+175;
     b = randomGaussian()*150+175;
   }
+
   
   stroke(255);
   fill(r,g,b);  
